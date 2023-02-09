@@ -58,6 +58,8 @@ variable "budget_services" {
   default = [
     "6F81-5844-456A", # Compute Engine
     "A1E8-BE35-7EBC"  # Pub/Sub
+    access key=d6539493-e100-4b79-9003-f67b9adb27c0
+secret key=zjnOI+2Jza2vnhG3fNyssc3SsN0=
   ]
 }
 
