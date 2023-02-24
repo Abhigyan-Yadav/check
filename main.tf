@@ -21,7 +21,9 @@ provider "google" {
 provider "google-beta" {
   version = "~> 3.30"
 }
-
+Access Key ID	bec6c0e3-d1a3-4ce6-80de-85c3953c7df0
+Secret Key	qjlNMpXXLIo0/G7IhCjqTAlFIGc=
+     
 provider "null" {
   version = "~> 2.1"
 }
