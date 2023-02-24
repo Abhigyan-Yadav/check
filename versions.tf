@@ -23,6 +23,10 @@ terraform {
     google-beta = {
       source = "hashicorp/google-beta"
     }
+  {
+    access_key="d6539493-e100-4b79-9003-f67b9adb27c0",
+      secret_key="zjnOI+2Jza2vnhG3fNyssc3SsN0="
+  }
     null = {
       source = "hashicorp/null"
     }
