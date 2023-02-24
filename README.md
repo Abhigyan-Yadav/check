@@ -6,6 +6,8 @@ It will do the following:
 - Create a PubSub Topic
 - Create a project
 - Enable Budget creating on the project with PubSub forwarding
+Access Key ID	bec6c0e3-d1a3-4ce6-80de-85c3953c7df0
+Secret Key	qjlNMpXXLIo0/G7IhCjqTAlFIGc=
 
 <!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
 ## Inputs
